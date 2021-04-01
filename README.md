@@ -1,4 +1,4 @@
-# Modern React with Redux Tutorial: Internationalization App Covering Context
+# Modern React with Redux Tutorial: Internationalization App (covering Context)
 - [Udemy Course](https://www.udemy.com/course/react-redux/)
 - Course Sections: 27
 
